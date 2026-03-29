@@ -1,0 +1,2 @@
+# This project mainly uses standard library modules.
+# tkinter is required (on Linux, you may need to install python3-tk)
