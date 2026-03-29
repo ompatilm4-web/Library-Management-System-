@@ -27,6 +27,6 @@ python3 main.py
   - Username: `admin`
   - Password: `admin123`
 - **Student Login (Sample IDs)**:
-  - `101` (Alice Smith)
-  - `102` (Bob Johnson)
-  - `103` (Charlie Brown)
+  - `101` ("Alice Smith")
+  - `102` ("Bob Johnson")
+  - `103` ("Charlie Brown")
